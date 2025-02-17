@@ -1,0 +1,4 @@
+git add .
+git commit -m "Primer commit: proyecto Flask básico"
+git remote add origin <URL_DEL_REPOSITORIO_EN_GITHUB>
+git push -u origin master
