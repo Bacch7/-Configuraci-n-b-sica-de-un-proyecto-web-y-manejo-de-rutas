@@ -1,0 +1,3 @@
+@app.route('/usuario/<nombre>')
+def usuario(nombre):
+    return f'Bienvenido, {nombre}!'
